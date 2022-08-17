@@ -24,4 +24,6 @@ Technologies used in this project,
 - Python flask for http server.
 - HTML/CSS/Javascript for UI
 
-![Alt text]
+![Webpage](https://user-images.githubusercontent.com/83868776/185039769-c81a7b33-ce32-49c4-81b5-d244e69112ab.png)
+
+
