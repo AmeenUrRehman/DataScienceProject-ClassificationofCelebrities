@@ -19,7 +19,7 @@ Technologies used in this project,
 - Python
 - Numpy and OpenCV for data cleaning
 - Matplotlib & Seaborn for data visualization
-- Sklearn for model building (Used Support Vector Machine as main model but train model with LogisticRegression , RandomForestClassifier)
+- Sklearn for model building (Used Support Vector Machine as main model and also train model with LogisticRegression , RandomForestClassifier to find best model)
 - Jupyter notebook and pycharm as IDE
 - Python flask for http server.
 - HTML/CSS/Javascript for UI
