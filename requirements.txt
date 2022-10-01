@@ -35,7 +35,7 @@ defusedxml==0.7.1
 distlib==0.3.4
 dlib==19.24.0
 einops==0.4.1
-en-core-web-sm==3.4.0
+en-core-web-sm
 entrypoints==0.3
 etils==0.7.1
 exceptiongroup==1.0.0rc8
