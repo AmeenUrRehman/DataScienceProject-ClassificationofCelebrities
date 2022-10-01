@@ -74,9 +74,6 @@ ipython-genutils==0.2.0
 ipython==8.0.1
 ipywidgets==7.6.5
 itsdangerous==2.1.2
-ivy-builder==1.1.9
-ivy-core==1.1.10
-ivy==6.4.1
 jax==0.3.16
 jedi==0.18.1
 joblib==1.1.0
