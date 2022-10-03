@@ -7,14 +7,14 @@ In this data science and machine learning project, we classify celebrities (Busi
 - ShahRukh Khan
 - Ratan Tata
 
-Here is the folder structure,
+## Here is the folder structure,
 
 - UI : This contains UserInterface website code.
 - Server: Python flask server.
 - Model: Contains python notebook for model building.
 - Images_dataset: Dataset used for our model training
 
-Technologies used in this project,
+## Technologies used in this project,
 
 - Python
 - Numpy and OpenCV for data cleaning
