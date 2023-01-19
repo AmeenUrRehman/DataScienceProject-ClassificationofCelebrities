@@ -20,7 +20,7 @@ In this data science and machine learning project, we classify celebrities (Busi
 - Numpy and OpenCV for data cleaning
 - Matplotlib & Seaborn for data visualization
 - Sklearn for model building (Used Support Vector Machine as main model and also train model with LogisticRegression , RandomForestClassifier to find best model)
-- Jupyter notebook and pycharm as IDE
+- Jupyter notebook and pycharm as IDE.
 - Python flask for http server.
 - HTML/CSS/Javascript for UI
 
