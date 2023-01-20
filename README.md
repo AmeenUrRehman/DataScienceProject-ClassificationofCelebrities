@@ -12,7 +12,7 @@ In this data science and machine learning project, we classify celebrities (Busi
 - UI : This contains UserInterface website code.
 - Server: Python flask server.
 - Model: Contains python notebook for model building.
-- Images_dataset: Dataset used for our model training
+- Images_dataset: Dataset used for our model training.
 
 ## Technologies used in this project,
 
