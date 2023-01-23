@@ -22,7 +22,7 @@ In this data science and machine learning project, we classify celebrities (Busi
 - Sklearn for model building (Used Support Vector Machine as main model and also train model with LogisticRegression , RandomForestClassifier to find best model)
 - Jupyter notebook and pycharm as IDE.
 - Python flask for http server.
-- HTML/CSS/Javascript for UI
+- HTML/CSS/Javascript for UI.
 
 ![Webpage](https://user-images.githubusercontent.com/83868776/185039769-c81a7b33-ce32-49c4-81b5-d244e69112ab.png)
 <h2>Demo<h2>
