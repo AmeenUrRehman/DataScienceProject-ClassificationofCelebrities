@@ -1,11 +1,11 @@
 # DataScienceProject-ClassificationofCelebrities
 
 In this data science and machine learning project, we classify celebrities (Business man / Actor / Sports celebrities).
-- Elon Musk
-- Lionel Messi
-- Virat Kholi
-- ShahRukh Khan
-- Ratan Tata
+- Elon Musk.
+- Lionel Messi.
+- Virat Kholi.
+- ShahRukh Khan.
+- Ratan Tata.
 
 ## Here is the folder structure,
 
